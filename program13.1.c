@@ -40,7 +40,7 @@ int main (void)
     if ( days != 0 )
        printf ("Number of days is %i\n", days);
 
-    if ( aMonth  == february )
+    if ( aMonth  == February )
        printf ("...or 29 if it's a leap year\n");
 
     return 0;
